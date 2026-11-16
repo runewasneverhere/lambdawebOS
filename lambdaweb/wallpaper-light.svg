@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5f7ff"/>
+      <stop offset="0.5" stop-color="#e3e9fb"/>
+      <stop offset="1" stop-color="#f1e6fb"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.8" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#7d93ff" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#7d93ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.12" cy="0.9" r="0.65">
+      <stop offset="0" stop-color="#d28cff" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#d28cff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowC" cx="0.5" cy="0.55" r="0.5">
+      <stop offset="0" stop-color="#6fd6ff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#6fd6ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="48" height="48" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#2b3a85" fill-opacity="0.09"/>
+    </pattern>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#base)"/>
+  <rect width="1920" height="1080" fill="url(#glowA)"/>
+  <rect width="1920" height="1080" fill="url(#glowB)"/>
+  <rect width="1920" height="1080" fill="url(#glowC)"/>
+  <rect width="1920" height="1080" fill="url(#dots)"/>
+</svg>

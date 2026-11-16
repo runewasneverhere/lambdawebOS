@@ -1,0 +1,18 @@
+lambdawebOS is licensed under the GNU General Public License, version 2 (see LICENSE).
+
+Bundled assets are not covered by that license and keep their own:
+
+lambdaweb/apps, lambdaweb/places, lambdaweb/symbolic, lambdaweb/sounds
+    Icons and sounds from the Yaru theme (https://github.com/ubuntu/yaru),
+    licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).
+    Some files were recolored or renamed.
+
+lambdaweb/apps/announcements.svg
+    Megaphone from GitHub Octicons (https://github.com/primer/octicons), MIT license.
+    See lambdaweb/apps/octicons-LICENSE.txt.
+
+lambdaweb/lambda-*.png, lambdaweb/wordmark-*.png, lambdaweb/wallpaper-*.svg
+    The lambdawebOS logo, wordmark and wallpapers. Copyright the lambdawebOS author.
+    They are not licensed for use as branding of derived works.
+
+"Ubuntu" is a trademark of Canonical Ltd. lambdawebOS is not affiliated with or endorsed by Canonical.
